@@ -16,7 +16,6 @@ import (
 	"os"
 	"os/exec"
 	"strconv"
-	"sync"
 
 	"github.com/bwmarrin/discordgo"
 	"layeh.com/gopus"
