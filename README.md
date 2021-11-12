@@ -1,4 +1,4 @@
-dgVoice
+dgVoice (forked from bwmarring/dgvoice)
 ====
 [![GoDoc](https://godoc.org/github.com/bwmarrin/dgvoice?status.svg)](https://godoc.org/github.com/bwmarrin/dgvoice) [![Go report](http://goreportcard.com/badge/bwmarrin/dgvoice)](http://goreportcard.com/report/bwmarrin/dgvoice) [![Build Status](https://travis-ci.org/bwmarrin/dgvoice.svg?branch=master)](https://travis-ci.org/bwmarrin/dgvoice) [![Discord Gophers](https://img.shields.io/badge/Discord%20Gophers-%23info-blue.svg)](https://discord.gg/0f1SbxBZjYq9jLBk)
 
@@ -26,7 +26,7 @@ This assumes you already have a working Go environment, if not please see
 [this page](https://golang.org/doc/install) first.
 
 ```sh
-go get github.com/bwmarrin/dgvoice
+go get github.com/serje3/dgvoice
 ```
 
 # Usage Example
